@@ -1,5 +1,7 @@
 # Belize Priority Species List
 
+This is a forked repository from uberi-projects/belize-priority-species-list, with results populated for the Belize Priority Species List 2026, published in the National Biodiversity Monitoring Programme. .gitignore has been updated in this fork to allow results to be commited to the repository. The repository is otherwise untouched. Birdlife range maps, basemaps, and user credentials for ICUN and GBIF will still have to be acquired independently by users of this repository as they cannot be committed. The original  README.md continues from here:
+
 This codebase creates output tables presenting the IUCN redlist status, Belizean regional endangerment status, and Belizean national responsibility (calculated as range share; alpha-hull method) for all Belizean species of focus taxa, including mammals, birds, reptiles, amphibians, sharks and rays, bony fish, insects, mollusks, corals, fungi, and plants. See METHODS.md for details on methodology and supporting literature for the approach used. This codebase also supports the customizable generation of output tables for any input species, provided they exist on GBIF.
 
 ## Table of Contents

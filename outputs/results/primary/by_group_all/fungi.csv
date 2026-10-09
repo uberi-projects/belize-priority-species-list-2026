@@ -1,0 +1,20 @@
+"gbif_id","species","n_points","alpha","n_parts","global_area_km2","belize_area_km2","weight","note","clip","category","range_share_pct"
+"5793136","Fulfordianthus evansii",5,"alpha13",2,4185.1,500.1,0.119488281800568,"","terrestrial","VU","11.95%"
+"9803955","Cantharellus coccolobae",363,"alpha4",3,307188.9,10846.7,0.0353094015034181,,"terrestrial","LC","3.53%"
+"2545275","Lentinus scleropus",228,"alpha6",3,4157905.6,14537.9,0.00349645730551633,"","terrestrial","LC","0.35%"
+"8023186","Calostoma cinnabarinum",4110,"alpha14",3,7563147.9,22107.1,0.00292300258364225,"","terrestrial","LC","0.29%"
+"2537769","Lentinula raphanica",89,"alpha13",1,5228169.9,14741.1,0.0028195500325505,"","terrestrial","LC","0.28%"
+"7240044","Lactarius indigo",4678,"alpha5",3,5013666,11834.8,0.00236050789069991,"","terrestrial","LC","0.24%"
+"7241861","Cantharellus lateritius",1515,"alpha36",3,9741229.2,22107.1,0.00226943647437974,,"terrestrial","LC","0.23%"
+"2519731","Hymenochaete damicornis",255,"alpha6",2,8892055.6,10614,0.00119364922961759,"","terrestrial","LC","0.12%"
+"3351394","Laccaria vinaceobrunnea",30,"alpha8",1,1772216.1,1613.9,0.000910677473270991,"","terrestrial","LC","0.09%"
+"5246358","Favolus tenuiculus",4446,"alpha93",1,52561069.9,22107.1,0.000420598381149744,,"terrestrial","LC","0.04%"
+"5452316","Amanita fuligineodisca",53,"alpha10",3,111691.6,0,0,"","terrestrial","VU","0.00%"
+"2554536","Craterellus tubaeformis",4821,"alpha18",3,15842947.7,0,0,,"terrestrial","LC","0.00%"
+"10790320","Phylloporopsis boletinoides",125,"alpha3",2,420680.1,0,0,,"terrestrial","LC","0.00%"
+"2530926","Laccaria laccata",4669,"",,,,,"getDynamicAlphaHull failed: Error in wk_handle.wk_wkb(wkb, s2_geography_writer(oriented = oriented,  : 
+  Loop 0 is not valid: Edge 61 crosses edge 822
+","terrestrial","LC",""
+"2551443","Russula albonigra",2407,,,,,,"getDynamicAlphaHull failed: Error in UseMethod(""as_s2_geography"") : 
+  no applicable method for 'as_s2_geography' applied to an object of class ""try-error""
+","terrestrial","LC",
